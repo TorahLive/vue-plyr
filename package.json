@@ -64,7 +64,7 @@
   ],
   "name": "torahlive-vue-plyr",
   "description": "> v7.0.0 - [Changelog](https://github.com/redxtech/vue-plyr/blob/master/changelog.md)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "doc": "docs",
     "example": "examples"
