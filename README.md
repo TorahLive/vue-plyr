@@ -15,7 +15,7 @@ A demo of the components (equivalent to the html example include here) can be fo
 
 ## Installation
 ```bash
-yarn add vue-plyr # or npm i vue-plyr
+yarn add torahlive-vue-plyr # or npm i torahlive-vue-plyr
 ```
 
 ### Module
