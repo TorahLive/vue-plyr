@@ -1,14 +1,4 @@
 {
-  "name": "vue-plyr",
-  "version": "7.0.0",
-  "description": "A vue component for the plyr video & audio player.",
-  "license": "MIT",
-  "author": {
-    "name": "Gabe Dunn",
-    "email": "gabe@redxtech.ca",
-    "url": "https://gabedunn.dev"
-  },
-  "repository": "github:redxtech/vue-plyr",
   "scripts": {
     "prebuild": "rm -rf dist/",
     "build": "NODE_ENV=production rollup --c rollup.config.js",
@@ -71,5 +61,22 @@
     "js",
     "javascript",
     "rollup"
-  ]
+  ],
+  "name": "torahlive-vue-plyr",
+  "description": "> v7.0.0 - [Changelog](https://github.com/redxtech/vue-plyr/blob/master/changelog.md)",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorahLive/vue-plyr.git"
+  },
+  "author": "TorahLive",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TorahLive/vue-plyr/issues"
+  },
+  "homepage": "https://github.com/TorahLive/vue-plyr#readme"
 }
